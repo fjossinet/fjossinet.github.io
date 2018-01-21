@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Bioinformatician, molecular biologist, teacher & RPGer. My main interests are non-coding RNAs, visualisation and data. I like to play with frameworks and programming languages that allow me to combine these three topics.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[fjossinet@gmail.com](mailto:fjossinet@gmail.com)
