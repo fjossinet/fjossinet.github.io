@@ -6,10 +6,10 @@
 name: Fabrice Jossinet
 
 # Short bio or description (displayed in the header)
-description: Bioinformatician, molecular biologist, teacher & RPGer. #ncRNA #visualization #data
+description: Bioinformatician, molecular biologist, teacher & RPGer. 
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://avatars2.githubusercontent.com/u/389452?s=400&v=4
+avatar: https://pbs.twimg.com/profile_images/852785067478753280/PRMKLtVu_400x400.jpg
 
 #
 # Flags below are optional
@@ -18,7 +18,7 @@ avatar: https://avatars2.githubusercontent.com/u/389452?s=400&v=4
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: fjossinet@gmail.com
   facebook:
   flickr:
   github: fjossinet
