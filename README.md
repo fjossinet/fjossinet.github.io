@@ -1,1 +1,1 @@
-Blog based on Jekyll.
+My GitHub blog based on Jekyll.
