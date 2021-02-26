@@ -4,7 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Bioinformatician, molecular biologist, teacher & RPGer. My main interests are on non-coding RNAs, visualisation and data. I like to play with frameworks and programming languages that allow me to combine these three topics.
+My name is Fabrice Jossinet. I'm biologist, bioinformatician & assistant professor at the University of Strasbourg, France.
+
+I'm creating visual tools to explore and study 2D and 3D architectures of RNA molecules.
+
+Languages used: Java, Kotlin, JavaFX, Python.
 
 ### Contact me
 
